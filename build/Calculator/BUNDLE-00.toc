@@ -1,0 +1,3 @@
+([('Calculator',
+   '/Users/gianni/Desktop/cartella senza nome/dist/Calculator',
+   'EXECUTABLE')],)
